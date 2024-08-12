@@ -1,7 +1,7 @@
 function App() {
 
   return (
-   <h1>My Name Is KAIF</h1>
+   <h1>My Name Is Kaif</h1>
   )
 }
 
